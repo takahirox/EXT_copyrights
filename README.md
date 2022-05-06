@@ -14,8 +14,6 @@ Written against the glTF 2.0 spec.
 
 ## Overview
 
-T.B.D.
-
 [`glTF core spec`](https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html) has a copyright field. But the field takes any strings. It is hard for applications to determine from the field to prohibit certain uses depending on the copyright or licence. This extension provides more structured copyrights information in glTF.
 
 ## Example
