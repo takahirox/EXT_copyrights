@@ -62,6 +62,6 @@ T.B.D.
 ## Related
 
 * [glTF KHR_xmp_json_ld extension](https://github.com/KhronosGroup/glTF/tree/main/extensions/2.0/Khronos/KHR_xmp_json_ld)
-  * [xmpRights](https://github.com/adobe/xmp-docs/blob/master/XMPNamespaces/xmpRights.md) contains properties that provide information regarding the legal restrictions associated with a resource
+  * [xmpRights](https://github.com/adobe/xmp-docs/blob/master/XMPNamespaces/xmpRights.md) contains properties that provide information regarding the legal restrictions associated with a resource, but doesn't contain structured information about what are allowed or disallowed
 * [VRM Permission/License Information field](https://github.com/vrm-c/vrm-specification/tree/master/specification/0.0#permission--license-information)
   * Similar concept, but this extension is independent of VRM spec or VR use
