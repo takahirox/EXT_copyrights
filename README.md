@@ -59,4 +59,4 @@ T.B.D.
 | `license` | `string` | | No |
 | `licenseUri` | `string` | | No |
 | `extras` | `any` | | No |
-| `unpermitted` | `string[1-*]` | T.B.D. | No (Should these be specified in the license?) |
+| `unpermitted` | `string[1-*]` | T.B.D. any of "redistribution", "commersial use", "modification", ... | No (Should these be specified in the license?) |
