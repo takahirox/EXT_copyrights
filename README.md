@@ -60,3 +60,8 @@ T.B.D.
 | `licenseUri` | `string` | | No |
 | `extras` | `any` | | No |
 | `unpermitted` | `string[1-*]` | T.B.D. any of "redistribution", "commersial use", "modification", ... | No (Should these be specified in the license?) |
+
+## Related
+
+* [VRM Permission/License Information field](https://github.com/vrm-c/vrm-specification/tree/master/specification/0.0#permission--license-information)
+  * Similar concept, but this extension is independent of VRM spec or VR use
